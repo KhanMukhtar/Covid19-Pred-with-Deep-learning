@@ -17,4 +17,7 @@ The dataset contains the images collected from the following 3 datasets.
 
 
 <h2>OUTPUT</h2>
-<img src="/2.png" width=700>
+1. <img src="/5.png" width=800>
+2. <img src="/2.png" width=800>
+3. <img src="/3.png" width=800>
+4. <img src="/4.png" width=800>
