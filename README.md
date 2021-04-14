@@ -7,3 +7,4 @@ Deep learning project that help,to diagnose the presence of covid-19 by analyzin
 The dataset contains the images collected from the following 3 datasets.
 
 1. [kaggle](https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset)
+2. [https://github.com/ieee8023/covid-chestxray-dataset]
