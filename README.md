@@ -17,4 +17,4 @@ The dataset contains the images collected from the following 3 datasets.
 
 
 <h2>OUTPUT</h2>
-<img src="Covid19-Pred-with-Deep-learning/2.png" width=700>
+<img src="/Covid19-Pred-with-Deep-learning/2.png" width=700>
